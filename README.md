@@ -4,6 +4,6 @@
 
 ## 02/50
 
-<a href="https://progress-steps-02-50.netlify.app/.app/" target="_blank">Click Here to view Progress Steps</a>
+<a href="https://progress-steps-02-50.netlify.app/" target="_blank">Click Here to view Progress Steps</a>
 
 ### Credits: @bradtraversy
